@@ -42,6 +42,36 @@
 - `[日期]_[版本]_[标题]` → `2025-03-29_人教版_人教版2025学年…rar`
 - `[标题]_[编号]` → 在标题后加编号，方便区分重名试卷。
 
+## 界面截图 / Screenshots
+
+以下为用户提供的演示截图，截图中的数量仅代表当时的操作结果，不代表当前题库规模或本仓库实测结果。
+
+These user-supplied screenshots show example results, not current library totals or independent tests by this archive.
+
+### 1. 更新题库 / Update the local library
+
+按学科和年级扫描栏目，将试卷目录存入本地数据库。截图展示扫描完成提示。
+
+Scan a subject/grade category and save its listings locally; the screenshot shows the completion message.
+
+![题库更新完成 / Library update completed](docs/images/library-update.png)
+
+### 2. 自定义命名 / Custom filename templates
+
+命名规则提示中展示可用字段及文件名预览。
+
+The naming tooltip lists supported fields and previews the resulting filename.
+
+![命名规则与预览 / Filename template and preview](docs/images/filename-template.png)
+
+### 3. 筛选并下载 / Filter and download
+
+按版本和关键词筛选，勾选试卷后下载。截图展示成功 6 份、跳过 0 份、失败 0 份。
+
+Filter by edition and keywords, select papers, and download. This example reports 6 successful downloads, 0 skipped and 0 failed.
+
+![筛选与下载结果 / Filtered papers and download results](docs/images/download-results.png)
+
 ## 来源与权限
 
 原作者、发布页面、许可证尚未提供。本仓库保持私有，仅用于个人保存；未获得许可前不公开分发，不添加开源许可证。请合法使用下载内容，遵守来源网站的使用规则和版权要求。
