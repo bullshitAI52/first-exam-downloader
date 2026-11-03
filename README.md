@@ -1,6 +1,6 @@
 # 第一试卷下载器 v0.39
 
-个人私有归档，保存用户提供的 Windows 程序。此仓库不是原作者的官方项目，也不包含源代码。
+个人公开归档，保存用户提供的 Windows 程序。此仓库不是原作者的官方项目，也不包含源代码。
 
 ## 文件与使用
 
@@ -74,11 +74,11 @@ Filter by edition and keywords, select papers, and download. This example report
 
 ## 来源与权限
 
-原作者、发布页面、许可证尚未提供。本仓库保持私有，仅用于个人保存；未获得许可前不公开分发，不添加开源许可证。请合法使用下载内容，遵守来源网站的使用规则和版权要求。
+本仓库已按仓库所有者要求公开。截图界面署名为 `thischild`；原始发布页面及许可证尚未提供，转载授权尚未核实。仓库公开不代表程序开源或授予再分发许可，因此不添加开源许可证。请合法使用下载内容，遵守来源网站的使用规则和版权要求。如有权利问题，请通过 Issues 联系仓库维护者处理。
 
 ## English
 
-Private personal archive of the user-supplied **First Exam Paper Downloader v0.39** Windows executable. The version is inferred from its filename. This is not the original author's official repository and contains no source code.
+Public personal archive of the user-supplied **First Exam Paper Downloader v0.39** Windows executable. The version is inferred from its filename. This is not the original author's official repository and contains no source code.
 
 Download the executable for use on Windows; macOS cannot run a Windows EXE directly. The program has not been executed, security-audited, or functionally tested here. Scan it before use and do not provide sensitive credentials or unnecessary administrator privileges.
 
@@ -106,4 +106,4 @@ Use the actual Chinese field names in the application: `[学科]` (subject), `[�
 - Existing files are not overwritten: duplicate names receive ` (1)`, ` (2)`, and so on.
 - Examples: `[学科][年级]_[标题]`, `[日期]_[版本]_[标题]`, or `[标题]_[编号]` to include an ID for easier distinction.
 
-The original author, release URL and license are currently unknown. Keep this archive private until redistribution permission is confirmed. No open-source license is granted by this archive.
+This repository was made public at its owner's request. The supplied screenshots credit `thischild`; the original release URL and license have not been provided, and redistribution permission has not been verified. Public availability does not make the program open source or grant redistribution rights. No open-source license is granted by this archive. Please contact the maintainer through Issues regarding rights concerns.
